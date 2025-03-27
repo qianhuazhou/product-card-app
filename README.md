@@ -43,11 +43,5 @@ npm start
 
 > The frontend will run on `http://localhost:3000`
 
-Make sure `frontend/package.json` has the following:
-
-```
-"proxy": "http://localhost:5001"
-```
-
 
 
